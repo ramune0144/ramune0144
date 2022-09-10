@@ -20,6 +20,6 @@
 </div>
 <h1></h1>
 <div align="center">
-<p  style="font-size: 5rem; ">My pic</p>
+<h2 ">My pic</p>
 <img src="https://external-preview.redd.it/7UnFfPtazcVmBvt8R9-b9Pb8RS2841LV46BHN5SAPKo.jpg?auto=webp&s=d980048be926ee1b785e173f52bc8f5dcdbb9faa">
 </div>
