@@ -4,7 +4,7 @@
         Hello!, I'm the derp rabbit in the universe🐇.
 </h1>
 <div>
-<p style="font-size: 2rem;" >About me 🐰</p>
+<h2>About me 🐰</h2>
 <ul>
 <li> I’m currently learning Reactjs React native and Python </li>
 <li> I'm a "PYTHON LOVER!" </li>
