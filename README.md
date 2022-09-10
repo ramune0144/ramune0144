@@ -12,6 +12,7 @@
 </ul>
 </div>
 <h1></h1>
+<h2>Github stats🐒🐒🐒</h2>
 <div align="center">
   <a href="https://github.com/ramune0144">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramune0144&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -19,7 +20,8 @@
   </a>
 </div>
 <h1></h1>
-<div align="center">
-<h2 ">My pic</p>
-<img src="https://external-preview.redd.it/7UnFfPtazcVmBvt8R9-b9Pb8RS2841LV46BHN5SAPKo.jpg?auto=webp&s=d980048be926ee1b785e173f52bc8f5dcdbb9faa">
+<div  align="center">
+<img height="400em" src="https://external-preview.redd.it/7UnFfPtazcVmBvt8R9-b9Pb8RS2841LV46BHN5SAPKo.jpg?auto=webp&s=d980048be926ee1b785e173f52bc8f5dcdbb9faa">
 </div>
+
+<h1 align="center">╰(*°▽°*)╯Nice to meet you╰(*°▽°*)╯</h1>
