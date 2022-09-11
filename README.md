@@ -6,9 +6,13 @@
 <div>
 <h2>About me 🐰</h2>
 <ul>
+<li>name: Rabbit</li>
+<li>age: n/a</li>
+<li>food: Crispy Pork Basil 🐽</li>
 <li> I’m currently learning Reactjs React native and Python </li>
-<li> I'm a "PYTHON LOVER!" </li>
+<li> I'm a "PYTHON LOVER!🐍" </li>
 <li> Just code for fun (❁´◡`❁)? </li>
+<li>hobby: genshin impact and coding</li>
 </ul>
 </div>
 <h1></h1>
