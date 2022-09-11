@@ -10,7 +10,7 @@
 <li>age: n/a</li>
 <li>food: Crispy Pork Basil 🐽</li>
 <li> I’m currently learning Reactjs React native and Python </li>
-<li> I'm a "PYTHON LOVER!🐍" </li>
+<li> PYTHON LOVER!🐍 </li>
 <li> Just code for fun (❁´◡`❁)? </li>
 <li>hobby: genshin impact and coding</li>
 </ul>
