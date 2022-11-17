@@ -12,7 +12,7 @@
 <li> I’m currently learning Reactjs React native and Python </li>
 <li> PYTHON LOVER!🐍 </li>
 <li> Just code for fun (❁´◡`❁)? </li>
-<li>hobby: genshin impact and coding</li>
+<li>game: genshin impact MINECRAFT apex and valorant(NUB GAME)</li>
 </ul>
 </div>
 <h1></h1>
