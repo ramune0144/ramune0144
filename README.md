@@ -25,7 +25,7 @@
 </div>
 <h1></h1>
 <div  align="center">
-<img height="400em" src="https://external-preview.redd.it/7UnFfPtazcVmBvt8R9-b9Pb8RS2841LV46BHN5SAPKo.jpg?auto=webp&s=d980048be926ee1b785e173f52bc8f5dcdbb9faa">
+
 </div>
 
-<h1 align="center">╰(*°▽°*)╯Nice to meet you╰(*°▽°*)╯</h1>
+<!--  <h1 align="center">╰(*°▽°*)╯Nice to meet you╰(*°▽°*)╯</h1> -->
