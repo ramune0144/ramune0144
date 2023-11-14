@@ -1,11 +1,8 @@
 <!-- github read me .md -->
 
 <h1 align="center" style="font-size: 2rem; " >
-       
 </h1>
-<div>
-</div>
-<h1></h1>
+
 <h2>Github stats</h2>
 <div align="center">
   <a href="https://github.com/ramune0144">
